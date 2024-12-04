@@ -7,7 +7,7 @@ Responsive About Me Page Using HTML and CSS.
 
 Here is a screenshot of the project:
 
-![screenshot](About-Me-Page-main/About-Me-Page-main/j.png)
+![About Me Page Screenshot](https://github.com/your-username/repository-name/raw/main/About-Me-Page-main/About-Me-Page-main/screenshot.png)
 
 ## Features
 - Responsive layout
